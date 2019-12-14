@@ -1,7 +1,7 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
+    "app_id": "com.innovationinc2000.unza",
+    "appname": "UNZA E - Campus",
+    "desktopappname": "UNZA E - Campus Desktop",
     "versioncode": 3720,
     "versionname": "3.7.2",
     "cache_update_frequency_usually": 420000,
@@ -74,8 +74,8 @@
         75.89,
         93.75
     ],
-    "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "customurlscheme": "http://moodle.unza.zm/login",
+    "siteurl": "http://moodle.unza.zm/login",
     "sitename": "",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
