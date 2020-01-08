@@ -1,5 +1,5 @@
 {
-    "app_id": "com.moodle.moodlemobile",
+    "app_id": "com.innovationinc2000.copperstone",
     "appname": "Moodle Mobile",
     "desktopappname": "Moodle Desktop",
     "versioncode": 3720,
@@ -75,7 +75,7 @@
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "http://www.ecampus.copperstoneuniversity.com",
     "sitename": "",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
